@@ -137,7 +137,9 @@ LinkedIn - <https://www.linkedin.com/in/abilioazevedo/>
 <!-- ACKNOWLEDGEMENTS -->
 # :exclamation: Acknowledgements
 
-[Rocketseat](https://rocketseat.com.br/ "Rocketseat").
+* [Next Level Week](http://nextlevelweek.com/)
+* [Rocketseat](https://rocketseat.com.br/ "Rocketseat").
+* [GabulDev](https://www.linkedin.com/in/gabuldev/)
 
 [:arrow_up: Back to top](#table-of-Contents)
 
