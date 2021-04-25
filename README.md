@@ -16,7 +16,7 @@
 <!-- PROJECT LOGO -->
 <p align="center">
   <a href="https://github.com/kibolho/devquiz-flutter">
-     <img src=".github/logo.png" alt="Logo">
+     <img src=".github/Logo.png" alt="Logo">
   </a>
 </p>
 
@@ -141,4 +141,4 @@ LinkedIn - <https://www.linkedin.com/in/abilioazevedo/>
 
 [:arrow_up: Back to top](#table-of-Contents)
 
-![project preview](.github/logo.png)
+![project preview](.github/Logo.png)
